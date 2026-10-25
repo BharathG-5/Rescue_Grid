@@ -1,0 +1,6 @@
+{
+  "name": "RescueGrid — Emergency Response & Disaster Coordination",
+  "description": "Every Second Matters. Every Life Counts. Offline-first emergency reporting, geographical incident mapping, rescue team dispatch, volunteer roster, and resource inventory platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

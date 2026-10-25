@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "RescueGrid Emergency Command",
+  "short_name": "RescueGrid",
+  "description": "Every Second Matters. Every Life Counts. Offline-first emergency reporting and disaster response coordination platform.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B132B",
+  "theme_color": "#0B132B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
